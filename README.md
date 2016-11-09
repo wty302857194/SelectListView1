@@ -22,9 +22,9 @@
 
 Thank `You` . Please `Call` Me `Coder`
 
-[我的博客](http://blog.csdn.net/guodongxiaren) 
+[我的微博](http://weibo.com/5767989568/profile?topnav=1&wvr=6&is_all=1) 
 
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+[我的微博](http://weibo.com/5767989568/profile?topnav=1&wvr=6&is_all=1 "悬停显示")
 
 * 昵称：温柔先生  
 * 别名：隔壁老王  
